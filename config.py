@@ -107,11 +107,11 @@ WEAPON_COLOR = {
 
 # ── Armas — descrições exibidas no menu ───────────────────────────────────────
 WEAPON_DESC = {
-    'BOMBA':     'BOMBA    — explosão em área',
-    'TRIPLO':    'TRIPLO   — leque de 3 tiros',
-    'LASER':     'LASER    — feixe contínuo',
-    'ESPALHADO': 'ESPALHADO— 5 direções',
-    'TRASEIRO':  'TRASEIRO — frente + trás',
+    'BOMBA':     'BOMBA     — explosão em área',
+    'TRIPLO':    'TRIPLO    — leque de 3 tiros',
+    'LASER':     'LASER     — feixe contínuo',
+    'ESPALHADO': 'ESPALHADO — 5 direções',
+    'TRASEIRO':  'TRASEIRO  — frente + trás',
 }
 
 # ── Bomba ─────────────────────────────────────────────────────────────────────
